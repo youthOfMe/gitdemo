@@ -1,0 +1,39 @@
+.fl {
+    float : left;
+}
+.fr {
+    float : right
+}
+.clear {
+    clear: both;
+}
+.mt {
+    margin-top: 10px;
+}
+.ml {
+    margin-left: 10px;
+}
+.mr {
+    margin-right: 10px;
+}
+.mb {
+    margin-bottom: 10px;
+}
+.mt2 {
+    margin-top:20px ;
+}
+.pt {
+    padding-top: 10px;
+}
+.pl {
+    padding-left: 10px;
+}
+.pr {
+    padding-right: 10px;
+}
+.pb {
+    padding-bottom: 10px;
+}
+.tc {
+    text-align: center;
+}
